@@ -22,7 +22,7 @@ A weather forecasting application built with Python using the OpenWeatherMap API
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YashGarg1122/WeatherForecast.git
+    git clone https://github.com/AshishGarg07/WeatherForecast.git
     ```
 
 2. Install the required dependencies:
